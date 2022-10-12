@@ -7,7 +7,8 @@ public class Merhaba {
 
             double sayi=456;
 
-
         }
+
+        System.out.println("merhaba 4");
     }
 }
