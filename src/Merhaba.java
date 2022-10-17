@@ -3,9 +3,13 @@ public class Merhaba {
         System.out.println("merhaba dunya");
 
         for (int i =0; i<5; i++){
-            System.out.println("merhaba dunya");
+            System.out.println("cozecem bu isi");
 
             double sayi=456;
+            double sayi2=122;
+
+            double toplam=sayi2/sayi;
+            System.out.println("sonuc = " + toplam);
 
 
         }
